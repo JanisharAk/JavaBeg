@@ -12,6 +12,5 @@ public class Prog {
         System.out.println(myLetter);
         System.out.println(myBool);
         System.out.println(myText);
-
     }
 }
